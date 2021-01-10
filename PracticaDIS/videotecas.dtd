@@ -1,0 +1,32 @@
+<!--Dani Ojeda-->
+        <!--Aquí se crea el DTD, generado a partir del XML (videotecas.xml)-->
+        <?xml encoding="UTF-8"?>
+        <!--Defino un elemento "videotecas" que contiene un subelemento "videoteca" y que puede ser opcional-->
+        <!ELEMENT videotecas (videoteca)*>
+        <!--Defino un elemento "videoteca" que contiene varios subelementos-->
+        <!--nombre, ubicación... y que pueden ser opcionales-->
+        <!ELEMENT videoteca (nombre|ubicacion|fecha_ult_actualizacion|peliculas)*>
+        <!--Defino los siguientes elementos: nombre, ubicacion y fecha_ult_actualizacion-->
+        <!ELEMENT nombre (#PCDATA)><!--el PCDATA, nos indica que puede contener texto entre las etiquetas-->
+        <!ELEMENT ubicacion (#PCDATA)>
+        <!ELEMENT fecha_ult_actualizacion (#PCDATA)>
+        <!--Defino un elemento "peliculas" que contiene un subelemento "pelicula" y que puede ser opcional-->
+        <!ELEMENT peliculas (pelicula)*>
+        <!--Defino un elemento "pelicula" que contiene varios subelementos-->
+        <!--titulo, sinopsis, genero, enlace_IMDB... y que pueden ser opcionales-->
+        <!ELEMENT pelicula (titulo|sinopsis|genero|enlace_IMDB|reparto)*>
+        <!--Defino una lista de atributos para "pelicula"-->
+        <!--Defino un elemento "pelicula" que contiene varios subelementos-->
+        <!ATTLIST pelicula
+                estreno CDATA #REQUIRED
+                id CDATA #REQUIRED
+                minutos CDATA #REQUIRED>
+        <!--Defino los siguientes elementos: nombre, ubicacion y fecha_ult_actualizacion-->
+        <!ELEMENT titulo (#PCDATA)><!--el PCDATA, nos indica que puede contener texto entre las etiquetas-->
+        <!ELEMENT sinopsis (#PCDATA)>
+        <!ELEMENT genero (#PCDATA)?>
+        <!ELEMENT enlace_IMDB (#PCDATA)>
+        <!--Defino un elemento "reparto" que contiene varios subelementos-->
+        <!ELEMENT reparto (actor)*><!--El elemento "reparto" va a contener, un subelemento "actor" que puede ser opcional-->
+        <!ELEMENT actor (nombre|enlace_wiki)*><!--Mi elemento "actor", contiene dos elementos nombre y enlace_wiki-->
+        <!ELEMENT enlace_wiki (#PCDATA)>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE videotecas SYSTEM "videotecas.dtd">
+<videotecas>
+    <videoteca>
+        <nombre>Peliculas Star Wars</nombre>
+        <ubicacion>Salon</ubicacion>
+        <fecha_ult_actualizacion>14/11/2020</fecha_ult_actualizacion>
+        <peliculas>
+           <pelicula id="1" minutos="136" estreno="1999" >
+               <titulo>Star Wars: Episodio I - La amenaza fantasma</titulo>
+               <sinopsis>La trama describe la historia del maestro jedi Qui-Gon Jinn y de su aprendiz Obi-Wan Kenobi, que escoltan y protegen a la Reina Amidala desde su planeta Naboo hasta Coruscant con la esperanza de encontrar una salida pacífica a un conflicto comercial interplanetario a gran escala. También trata del joven Anakin Skywalker antes de convertirse en Jedi, presentado como un esclavo con un potencial de la Fuerza inusualmente fuerte, y debe lidiar con el misterioso regreso de los Sith.
+               </sinopsis>
+               <enlace_IMDB>https://www.imdb.com/title/tt0120915/?ref_=nv_sr_srsg_6</enlace_IMDB>
+               <genero>Space Opera</genero>
+               <reparto>
+                   <actor>
+                       <nombre>Liam Neeson</nombre>
+                       <enlace_wiki>https://es.wikipedia.org/wiki/Liam_Neeson</enlace_wiki>
+                   </actor>
+                   <actor>
+                       <nombre>Samuel Leroy Jackson</nombre>
+                       <enlace_wiki>https://es.wikipedia.org/wiki/Samuel_L._Jackson</enlace_wiki>
+                   </actor>
+                   <actor>
+                       <nombre>Ewan McGregor</nombre>
+                       <enlace_wiki>https://es.wikipedia.org/wiki/Ewan_McGregor</enlace_wiki>
+                   </actor>
+               </reparto>
+           </pelicula>
+            <pelicula id="2" minutos="142" estreno="2002" >
+                <titulo>Star Wars: Episodio II - El ataque de los clones</titulo>
+                <sinopsis>La trama se desarrolla diez años después de los sucesos ocurridos en la película anterior, La amenaza fantasma. Después de la Batalla de Naboo, la galaxia se encuentra al borde de una guerra civil. Bajo la dirección de un Jedi renegado que se hace llamar Conde Dooku, muchos sistemas solares amenazan con la secesión de la República Galáctica. Tras los intentos de asesinato de la senadora Padmé Amidala, la anterior reina de Naboo, el Padawan Anakin Skywalker es asignado para protegerla, mientras que a su maestro, Obi-Wan Kenobi, se le asigna la investigación del intento de asesinato.
+                </sinopsis>
+                <enlace_IMDB>https://www.imdb.com/title/tt0121765/?ref_=nv_sr_srsg_7</enlace_IMDB>
+                <genero>Space Opera</genero>
+                <reparto>
+                    <actor>
+                        <nombre>Ewan McGregor</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Ewan_McGregor</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Natalie Portman</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Natalie_Portman</enlace_wiki>
+                    </actor>
+                </reparto>
+            </pelicula>
+            <pelicula id="3" minutos="139" estreno="2005" >
+                <titulo>Star Wars: Episodio III - La venganza de los Sith</titulo>
+                <sinopsis>La trama describe una época en la que los Caballeros Jedi se han esparcido por toda la galaxia, dirigiendo un ejército clon masivo para enfrentar a los Separatistas Galácticos, tres años después del inicio de las Guerras Clon. El Canciller Palpatine fue secuestrado y el Maestro Jedi Obi-Wan Kenobi, acompañado de su aprendiz Anakin Skywalker, es enviado a rescatarlo en una misión, donde también debe eliminar a los Líderes Separatistas, el Conde Dooku y el General Grievous, para concluir el conflicto galáctico. Después de ser rescatado, el Canciller fortalece su amistad con Anakin, para poder convencerlo de que existen mayores beneficios en el Lado Oscuro de la Fuerza, que del Lado Luminoso. La Orden Jedi empieza a sospechar de la amistad entre el Canciller y Anakin, por lo que intenta averiguar los verdaderos objetivos de Palpatine. Cuando el Canciller se descubre, repentinamente, como el siniestro Lord Sith Darth Sidious, los destinos de la Orden Jedi y de la República Galáctica se encuentran expuestos ante un inminente peligro.
+                </sinopsis>
+                <enlace_IMDB>https://www.imdb.com/title/tt0121766/?ref_=fn_tt_tt_9</enlace_IMDB>
+                <genero>Space Opera</genero>
+                <reparto>
+                    <actor>
+                        <nombre>Ewan McGregor</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Ewan_McGregor</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Ian McDiarmid</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Ian_McDiarmid</enlace_wiki>
+                    </actor>
+                </reparto>
+            </pelicula>
+            <pelicula id="4" minutos="121" estreno="1977" >
+                <titulo>Star Wars: Episodio IV - Una nueva esperanza</titulo>
+                <sinopsis>La trama describe la historia de un grupo de guerrilleros —conocidos como la Alianza Rebelde— cuyo objetivo es destruir la estación espacial Estrella de la Muerte, creada por el opresor Imperio Galáctico. Desde una perspectiva general, la historia se enfoca en un joven granjero llamado Luke Skywalker, quien, de forma repentina, se convertirá en un héroe conforme acompaña al Maestro Jedi Obi-Wan Kenobi en una misión que lo llevará a unirse a la Alianza Rebelde para ayudarles a destruir la estación espacial del Imperio.
+                </sinopsis>
+                <enlace_IMDB>https://www.imdb.com/title/tt0076759/?ref_=nv_sr_srsg_3</enlace_IMDB>
+                <genero>Space Opera</genero>
+                <reparto>
+                    <actor>
+                        <nombre>Mark Hamill</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Mark_Hamill</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Harrison Ford</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Harrison_Ford</enlace_wiki>
+                    </actor>
+                </reparto>
+            </pelicula>
+            <pelicula id="5" minutos="124" estreno="1980" >
+                <titulo>Star Wars: Episodio V - El Imperio contraataca</titulo>
+                <sinopsis>La ficción de la película se sitúa tres años después de la destrucción de la estación espacial de combate conocida como la Estrella de la muerte, destrucción acaecida al final del episodio anterior, Una Nueva Esperanza, estrenada en el año 1977. En El Imperio contraataca Luke Skywalker, Han Solo, Leia Organa y el resto de la Alianza Rebelde son perseguidos por Darth Vader y las fuerzas de élite del Imperio Galáctico. En este episodio se desarrolla la historia de amor entre Han y Leia, mientras que Luke aprende más sobre los caminos de la Fuerza de la mano del maestro Yoda. Con Han y Leia capturados por el Imperio, Luke luchará contra Darth Vader en una confrontación sin igual, pero Vader esconde una terrible revelación.
+                </sinopsis>
+                <enlace_IMDB>https://www.imdb.com/title/tt0080684?ref_=nv_sr_srsg_0</enlace_IMDB>
+                <genero>Space Opera</genero>
+                <reparto>
+                    <actor>
+                        <nombre>Mark Hamill</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Mark_Hamill</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Harrison Ford</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Harrison_Ford</enlace_wiki>
+                    </actor>
+                </reparto>
+            </pelicula>
+            <pelicula id="6" minutos="131" estreno="1983" >
+                <titulo>Star Wars: Episode VI - Return of the Jedi</titulo>
+                <sinopsis>En Sombras del Imperio, se revela que el Imperio ha comenzado la construcción en secreto de la Segunda Estrella de la Muerte, mucho más poderosa, grande, armada y mejor defendida que la versión anterior, con un escudo de energía que la convierte en una estación espacial invisible a los sensores y sistemas de ataque de otras naves de combate. Siguiendo los consejos del Príncipe Xizor, el Emperador Palpatine deja que los planos caigan en las manos de los rebeldes, en una batalla donde logran capturar una nave de transporte. Los Espías Bothan descubren la nave que resguarda los mencionados planos y aunque muchos de ellos mueren en combate, logran divulgar la información a la Rebelión, de su diseño, capacidad, armamento, defensa y ubicación exacta en la Galaxia, para comenzar el plan de Ataque contra la nueva Estrella de la Muerte, y que la flota estelar del Imperio está dispersa por la Galaxia, buscando a la rebelión entre todos los sistemas estelares.
+                </sinopsis>
+                <enlace_IMDB>https://www.imdb.com/title/tt0086190/?ref_=nv_sr_srsg_0</enlace_IMDB>
+                <genero>Space Opera</genero>
+                <reparto>
+                    <actor>
+                        <nombre>Mark Hamill</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Mark_Hamill</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Harrison Ford</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Harrison_Ford</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Carrie Fisher</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Carrie_Fisher</enlace_wiki>
+                    </actor>
+                </reparto>
+            </pelicula>
+            <pelicula id="7" minutos="136" estreno="2015" >
+                <titulo>Star Wars: Episodio VII - El despertar de la Fuerza</titulo>
+                <sinopsis>Treinta años después de la Batalla de Endor, la Galaxia no ha podido acabar con la tiranía y la opresión. La Alianza Rebelde se ha transformado en la "Resistencia", brazo militar de la Nueva República que combate a la "Primera Orden", una agrupación marcial nacida e influenciada por los restos del Imperio Galáctico.
+                </sinopsis>
+                <enlace_IMDB>https://www.imdb.com/title/tt2488496/?ref_=nv_sr_srsg_3</enlace_IMDB>
+                <genero>Space Opera</genero>
+                <reparto>
+                    <actor>
+                        <nombre>Mark Hamill</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Mark_Hamill</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Harrison Ford</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Harrison_Ford</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Carrie Fisher</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Carrie_Fisher</enlace_wiki>
+                    </actor>
+                </reparto>
+            </pelicula>
+            <pelicula id="8" minutos="152" estreno="2017" >
+                <titulo>Star Wars: Episodio VIII - Los últimos Jedi</titulo>
+                <sinopsis>Tras la muerte de Han Solo (Harrison Ford) y de la destrucción de la Base Starkiller en una batalla entre la Resistencia y la siniestra Primera Orden, Rey (Daisy Ridley) viaja hacia el lejano planeta oculto Ahch-To en el Halcón Milenario para así encontrarse con el legendario maestro Jedi Luke Skywalker (Mark Hamill), convertirse en su aprendiz y empezar a entrenar guiándose en los caminos de la fuerza para poder enfrentarse con el malvado Kylo Ren (Adam Driver), hijo de Han y Leia quien fue seducido por el lado oscuro de la Fuerza, y acabar con él así como también con el maestro de este, el misterioso Líder Supremo Snoke (Andy Serkis).
+                </sinopsis>
+                <enlace_IMDB>https://www.imdb.com/title/tt2527336?ref_=nv_sr_srsg_6</enlace_IMDB>
+                <genero>Space Opera</genero>
+                <reparto>
+                    <actor>
+                        <nombre>Carrie Fisher</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Carrie_Fisher</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Mark Hamill</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Mark_Hamill</enlace_wiki>
+                    </actor>
+                </reparto>
+            </pelicula>
+        </peliculas>
+    </videoteca>
+
+    <videoteca>
+        <nombre>Peliculas Frozen</nombre>
+        <ubicacion>Despacho</ubicacion>
+        <fecha_ult_actualizacion>12/11/2020</fecha_ult_actualizacion>
+        <peliculas>
+            <pelicula id="1" minutos="102" estreno="2013" >
+                <titulo>Frozen</titulo>
+                <sinopsis>La historia se centra en la Princesa Elsa de Arendelle, quien tiene poderes mágicos para generar hielo; una habilidad que usa para jugar con su hermana menor, la Princesa Anna. En uno de sus juegos, Elsa hiere accidentalmente a su hermana. Sus padres, El Rey y La Reina de Arendelle, llevan a su hija Anna a una colonia de trolls liderados por Grand Pabbie. Él la cura, y por su bien «borra» los recuerdos de ella con Elsa, su hermana mayor; y le aconseja a Elsa controlar sus poderes mágicos. El Rey y la Reina de Arendelle aíslan a sus dos hijas, Anna y Elsa, dentro del palacio. Elsa empieza a despreciar a Anna, su hermana menor, lo que provoca el distanciamiento entre ellas. Elsa elige suprimir su magia en lugar de dominarla, haciendo que se vuelva más insegura. Cuando las hermanas son adolescentes, sus padres desafortunadamente mueren en el mar durante un fuerte huracán.
+                </sinopsis>
+                <enlace_IMDB>https://www.imdb.com/title/tt2294629/?ref_=nv_sr_srsg_3</enlace_IMDB>
+                <genero>Animación</genero>
+                <reparto>
+                    <actor>
+                        <nombre>Idina Menzel</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Idina_Menzel</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Kristen Bell</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Kristen_Bell</enlace_wiki>
+                    </actor>
+                </reparto>
+            </pelicula>
+            <pelicula id="2" minutos="103" estreno="2019" >
+                <titulo>Frozen II</titulo>
+                <sinopsis>El rey Agnarr de Arendelle cuenta una historia a sus hijas pequeñas, Elsa y Anna, que su abuelo, el rey Runeard, había establecido un tratado con una tribu vecina de Northuldra al construir una presa en su tierra natal, el Bosque Encantado. Sin embargo, se produce una pelea, que resulta en la muerte de Runeard y enfurece a los espíritus elementales de la Tierra, Fuego, Agua y Aire del bosque. Los espíritus desaparecen y un muro de niebla atrapa a todos en el Bosque Encantado. El joven Agnarr apenas escapa debido a la ayuda de un salvador desconocido.
+                </sinopsis>
+                <enlace_IMDB>https://www.imdb.com/title/tt4520988/?ref_=nv_sr_srsg_0</enlace_IMDB>
+                <reparto>
+                    <actor>
+                        <nombre>Idina Menzel</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Idina_Menzel</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Jonathan Groff</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Jonathan_Groff</enlace_wiki>
+                    </actor>
+                    <actor>
+                        <nombre>Josh Gad</nombre>
+                        <enlace_wiki>https://es.wikipedia.org/wiki/Josh_Gad</enlace_wiki>
+                    </actor>
+                </reparto>
+            </pelicula>
+        </peliculas>
+    </videoteca>
+</videotecas>
